@@ -1,0 +1,11 @@
+{
+        "url": "tcp://168.63.82.20:1883",
+        "answerUrl": "http://168.63.82.20/server/income/",
+        "targets": [
+            {
+                "port": "D2",
+                "username": "charlag",
+                "did": "9bm0grl4jb5m"
+            }
+        ]
+}

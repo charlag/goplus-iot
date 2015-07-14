@@ -1,0 +1,13 @@
+{
+  "name": "goplus-client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "mqtt": "~1.3.4",
+    "mraa": "~0.7.3",
+    "querystring": "~0.2.0"
+  }
+}

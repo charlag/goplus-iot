@@ -1,0 +1,13 @@
+{
+  "login": "charlag",
+  "password": "stupidgo",
+  "period": "5000",
+  "url": "http://168.63.82.20:80",
+  "targets": [
+    {
+      "did": "g5xwt35icpm5",
+      "port": "D1",
+      "_name": "Flame sensor"
+    }
+  ]
+}
